@@ -1,7 +1,7 @@
 backend:
   name: github
   branch: main 
-  repo: dimasoltator/treemanagementplan.ca
+  repo: dimasoltator/dimasoltator
 
 # These lines should *not* be indented
 media_folder: "static/img" # Media files will be stored in the repo under static/images/uploads
